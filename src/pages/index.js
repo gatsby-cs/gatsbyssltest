@@ -16,7 +16,7 @@ const IndexPage = () => (
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
+      alt="A Gatsby astronaut - I am testing - This is pragyan"
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
